@@ -1,0 +1,19 @@
+{
+  "name": "walderconfiggenerator",
+  "version": "1.0.0",
+  "description": "Generates Walder config files from a file structure",
+  "main": "walder_generator.js",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renevds/walderconfiggenerator.git"
+  },
+  "author": "René Van Der  Schueren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renevds/walderconfiggenerator/issues"
+  },
+  "homepage": "https://github.com/renevds/walderconfiggenerator#readme"
+}
